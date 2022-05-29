@@ -1,2 +1,3 @@
 # crypto_portfolio
-This application will provide crypto portfolio proposal with price change data across different time period for different crypto currencies. 
+This application will provide crypto portfolio proposal with price change data across different time period for different coins. 
+The data is normalized & three principal components are identified for the price change data . The optimal no. of clusters is identified with elbow method and Unsupervised learning using Kmeans Algorithm helps clustering/segmenting data for the crypto portfolio.
